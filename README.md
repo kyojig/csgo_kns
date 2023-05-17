@@ -1,11 +1,10 @@
 # Best free CSGO cheats ![CS:GO]
-[//]: <> (!![App menu]("link do screena samego menu"))
 
 ## Features
 
-* **Glow** - render glow effect on entities
 * **Misc** - miscellaneous features
 * **Config** - JSON-based configuration system
+* **Aimlock** - Aimlock perfectly on heads without configuration
 
 <details>
 <summary>Features in depth</summary>
@@ -55,7 +54,6 @@
 ### Cloning
 The very first step in order to compile csgo_kns is to clone this repo from GitHub to your local computer. Git is required to step futher, if not installed download it [here](https://git-scm.com). Open git bash / git cmd / cmd and enter following command:
 ```
-git clone https://github.com/
+git clone https://github.com/https://github.com/kyojig/csgo_kns
 ```
 `csgo_kns` folder should have been succesfully created, containing all the source files.
-
