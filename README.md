@@ -1,4 +1,4 @@
-# Best free CSGO cheats ![CS:GO]
+# Best free CSGO cheats
 
 ## Features
 
