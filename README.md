@@ -56,4 +56,4 @@ The very first step in order to compile csgo_kns is to clone this repo from GitH
 ```
 git clone https://github.com/https://github.com/kyojig/csgo_kns
 ```
-`csgo_kns` folder should have been succesfully created, containing all the source files.
+`csgo_kns` folder should have been succesfully created, containing all the source files
